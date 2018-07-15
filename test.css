@@ -1,0 +1,29 @@
+p{
+	color:#867698;
+	font-size:26px;
+	
+}
+h1{text-align:right;
+font-family:Sitka Subheading; 
+}
+#about{
+	
+	color:black;
+	font-family:Sitka Subheading;
+	font-size:24px;
+	text-align:right
+}
+.fotercontent{
+	color:#ffff;
+	font-family:Kawkab Mono;
+	font-size:15px;
+	text-align:right;
+	margin-right:60px;
+	padding:35px
+	
+}
+.foter{height:100px;
+background-color:#707070
+	
+	
+}

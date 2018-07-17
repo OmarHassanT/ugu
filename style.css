@@ -6877,6 +6877,9 @@ button.close {
   font-size: 15px;
   font-family: Droid Arabic Kufi;
 }
+#row5 .ads .content-ads a {
+  color: black;
+}
 #row5 .ads hr {
   border-top: 1px solid #707070;
 }
@@ -6895,6 +6898,9 @@ button.close {
   margin-top: 5px;
   height: 80px;
 }
+#row5 .ph1-content a {
+  color: white;
+}
 #row5 .ph2 {
   width: 100%;
   height: 200px;
@@ -6907,6 +6913,9 @@ button.close {
   margin-top: 5px;
   height: 80px;
 }
+#row5 .ph2-content a {
+  color: white;
+}
 #row5 .col-md-3 {
   width: 50%;
 }
@@ -6916,7 +6925,7 @@ button.close {
 #row6 .col-md-3 {
   width: 50%;
   text-align: right;
-  font-family: Kawkab Mono;
+  font-family: Droid Arabic Kufi;
   font-size: 18px;
   color: black;
   border-color: #707070;
@@ -6969,4 +6978,32 @@ button.close {
   text-align: right;
   font-size: 25px;
   margin-top: 25px;
+}
+#row1-3 .sidbar-first ul {
+  margin-top: 20px;
+  list-style-type: none;
+  text-align: right;
+}
+#row1-3 .sidbar-first ul a {
+  color: black;
+  font-family: Kawkab Mono;
+}
+#row1-3 .sidbar-first ul a:hover {
+  text-decoration: none;
+  color: white;
+}
+#row1-3 .sidbar-first ul li {
+  padding: 10px;
+  text-align: center;
+  border: 0px;
+  margin-top: 3px;
+  font-size: 15px;
+  background-color: #efefef;
+}
+#row1-3 .sidbar-first ul li:hover {
+  color: white;
+  background-color: #707070;
+}
+#row1-3 .article {
+  text-align: right;
 }
